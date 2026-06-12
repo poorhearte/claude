@@ -6,6 +6,12 @@
       "WebFetch(*)",      
       "Skill(*)",
       "WebFetch(*)"
-    ]
+    ],
+     "defaultMode": "acceptEdits",
+     "_comment": "acceptEdits — Edit/Write 자동 허용",
+    "_comment": "auto — 더 광범위한 자동 모드 (Bash 등까지 일부 자동)",
+    "_comment": "bypassPermissions — 모든 권한 우회 (위험, 비추)",
+    "_comment": "default — 기본 (매번 묻기)"
+
   }
 }
